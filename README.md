@@ -9,3 +9,5 @@ The goal of Mapty is to easily log your workouts. Simply click on the location o
 # App Screenshots
 
 ![App](https://github.com/AbdelrahmanAbdelfattah/Mapty-app/blob/master/Screenshot%202023-01-29%20171355.png)
+
+## Note : Icoded only the JavaScript code
